@@ -1,0 +1,6 @@
+{
+  "Name": "Dispatcher_PayrollConnectReportDowloads",
+  "ProjectType": "Process",
+  "Description": "Dispatcher process which reads the input file and add the releavant details to the queue",
+  "MainFile": "Main.xaml"
+}
